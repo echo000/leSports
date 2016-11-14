@@ -32,17 +32,17 @@
         {
           "name": "Profit",
           "realname": "Kim Joon-hyung",
-          "role": "Top"
+          "role": "Top - Sub"
         },
         {
           "name": "bengi",
           "realname": "Bae Seong-ung",
-          "role": "Jungle"
+          "role": "Jungle - Sub"
         },
         {
           "name": "TaeHoon",
           "realname": "Kim Tae-hoon",
-          "role": "Support"
+          "role": "Support - Sub"
         }
       ]
     },
@@ -51,45 +51,29 @@
       "website": "http://google.com",
       "players": [
         {
-          "name": "Duke",
-          "realame": "Lee Ho-Seong",
+          "name": "Hauntzer",
+          "realame": "Kevin Yarnell",
           "role": "Top"
         },
         {
-          "name": "Blank",
-          "realname": "Kang Sun-gu",
+          "name": "Svenskeren",
+          "realname": "Dennis Johnsen",
           "role": "Jungle"
         },
         {
-          "name": "Faker",
-          "realname": "Lee Sang-hyeok",
+          "name": "Bjergsen",
+          "realname": "Søren Bjerg",
           "role": "Mid"
         },
         {
-          "name": "Bang",
-          "realname": "Bae Jun-sik",
-          "role": "ADC"
-        },
-        {
-          "name": "Wolf",
-          "realname": "Lee Jae-wan",
+          "name": "Biofrost",
+          "realname": "Vincent Wang",
           "role": "Support"
         },
         {
-          "name": "Profit",
-          "realname": "Kim Joon-hyung",
-          "role": "Top"
-        },
-        {
-          "name": "bengi",
-          "realname": "Bae Seong-ung",
-          "role": "Jungle"
-        },
-        {
-          "name": "TaeHoon",
-          "realname": "Kim Tae-hoon",
+          "name": "Valkrin",
+          "realname": "Richard Royer",
           "role": "Support"
-        }
       ]
     }
   ]
