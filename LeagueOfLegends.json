@@ -1,5 +1,6 @@
 {
   "name" : "League Of Legends",
+  "gametype" : "MOBA"
   "teams": [
     {
       "name": "SK Telecom T1",
